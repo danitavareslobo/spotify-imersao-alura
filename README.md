@@ -1,4 +1,4 @@
-<h1  align="center"> Imersão Alura Front-End - Clone Spotify</h1>
+<h1 align="center"> Imersão Alura Front-End - Clone Spotify</h1>
 
 Projeto em desenvolvimento durante a imersão Alura, onde o objetivo é replicar a interface do Spotify.
 
@@ -12,6 +12,16 @@ Estruturação inicial utilizando `HTML` e `CSS`, para desenvolvimento da Nav.
 
 ![
 ](image.png)
+
+<br>
+
+## Aula 2
+
+Continuação do desenvolvimento da Nav, e desenvolvimento do Footer, utilizando `HTML` e `CSS`.
+
+<br>
+
+![alt text](image-1.png)
 
 <br>
 
