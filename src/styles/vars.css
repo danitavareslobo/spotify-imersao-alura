@@ -1,0 +1,11 @@
+:root {
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /* FONT */
+    --bg-icon: #121212;
+    --bg-arrow-color: rgba(0,0,0,7);
+    --bg-black: #000;
+    --bg-white: #fff;
+    --bg-dani: #e762b0
+}

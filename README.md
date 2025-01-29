@@ -10,8 +10,7 @@ Estruturação inicial utilizando `HTML` e `CSS`, para desenvolvimento da Nav.
 
 <br>
 
-![
-](image.png)
+<img src="./src/assets/image.png">
 
 <br>
 
@@ -21,7 +20,17 @@ Continuação do desenvolvimento da Nav, e desenvolvimento do Footer, utilizando
 
 <br>
 
-![alt text](image-1.png)
+<img src="./src/assets/image-1.png">
+
+<br>
+
+## Aula 3
+
+Início do desenvolvimento da Main e do Header de Navegação, utilizando `HTML` e `CSS`. Implementação de algumas pseudo-classes.
+
+<br>
+
+<img src="./src/assets/image-2.png">
 
 <br>
 
