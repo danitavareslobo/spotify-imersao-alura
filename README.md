@@ -36,11 +36,11 @@ Início do desenvolvimento da Main e do Header de Navegação, utilizando `HTML`
 
 ## Aula 4
 
-Desenvolvimento dos Cards na Main, utilizando `HTML`, `CSS` e `JavaScript`. 
+Desenvolvimento dos Cards na Main, utilizando `HTML`, `CSS` e `JavaScript`. Trabalhando com Json (Api Fake).
 
 <br>
 
-
+<video src="./src/assets/video.mp4"></video>
 
 <br>
 

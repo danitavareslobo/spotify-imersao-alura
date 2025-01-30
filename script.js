@@ -12,8 +12,8 @@ function requestApi(searchTerm) {
 
 function displayResults(result) {
     resultPlaylist.classList.add('hidden')
-    const artistName = document.getElementsById('artist-name');
-    const artistImage = document.getElementsById('artist-img');
+    const artistName = document.getElementById('artist-name');
+    const artistImage = document.getElementById('artist-img');
 
     result.forEach(element => {
         artistName.innerText = element.name;
