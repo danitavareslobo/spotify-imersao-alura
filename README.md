@@ -34,6 +34,38 @@ Início do desenvolvimento da Main e do Header de Navegação, utilizando `HTML`
 
 <br>
 
+## Aula 4
+
+Desenvolvimento dos Cards na Main, utilizando `HTML`, `CSS` e `JavaScript`. 
+
+<br>
+
+
+
+<br>
+
+# Acesso ao Projeto
+Após clonar o projeto na sua máquina, você pode abrir o mesmo com Visual Code. 
+
+Com o projeto aberto, execute o seguinte comando no terminal:
+
+```sh
+npm install
+```
+
+Execute o seguinte comando na raíz do projeto:
+
+```sh
+json-server --watch api-artists/artists.json --port 3000
+```
+Pronto, agora a nossa Api Fake está rodando. E você pode rodar o projeto com o Live Server no arquivo:
+
+```sh
+index.html
+```
+
+<br>
+
 
 ## Tecnologias Utilizadas
 
