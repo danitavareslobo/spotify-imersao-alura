@@ -40,7 +40,11 @@ Desenvolvimento dos Cards na Main, utilizando `HTML`, `CSS` e `JavaScript`. Trab
 
 <br>
 
-<video src="./src/assets/video.mp4"></video>
+
+
+https://github.com/user-attachments/assets/098ed334-0c59-4501-af72-fce661f0d092
+
+
 
 <br>
 
